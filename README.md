@@ -1,6 +1,6 @@
 # jUjU software
 
-I’m Julian “Candlestick” McLendon (yandleyick), founder of jUjU software. I’ve built AI agents that automatically edit music visuals and gaming montages. I’ve also built agents that comb through hundreds of hours of footage to find highlights.
+I'm Julian 'candlestick' McLendon (yandleyick), founder of jUjU software. I make tools for the work I do for myself, such as AI agents that automatically edit music visuals and gaming montages or comb through hundreds of hours of footage to find highlights.
 
 ## Candlestick Creator Toolkit
 
