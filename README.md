@@ -1,10 +1,10 @@
-# jUjU LLC
+# jUjU software
 
-I’m Julian “Candlestick” McLendon (yandleyick), founder of jUjU LLC. I make tools for the work I do myself, from cutting a freestyle at the right bar to finding a Tracer play in hours of Overwatch footage.
+I’m Julian “Candlestick” McLendon (yandleyick), founder of jUjU software. I make tools for the work I do myself, from cutting a freestyle at the right bar to finding a Tracer play in hours of Overwatch footage.
 
 ## Candlestick Creator Toolkit
 
-I built and published seven tools and workflows. I also curated a catalog of 88 third-party tools and resources, with links to the people and projects behind them. [Toolkit on GitHub](https://github.com/yandleyick/candlestick-creator-toolkit) · [Creator guide](https://yandleyick.com/guides/toolkit)
+I’ve built many tools and workflows. Seven of them are published in the Candlestick Creator Toolkit. I also curated a catalog of 88 third-party tools and resources, with links to the people and projects behind them. [Toolkit on GitHub](https://github.com/yandleyick/candlestick-creator-toolkit) · [Creator guide](https://yandleyick.com/guides/toolkit)
 
 | What I made | How I use it |
 | --- | --- |
