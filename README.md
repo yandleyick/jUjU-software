@@ -1,6 +1,6 @@
 # jUjU software
 
-I’m Julian “Candlestick” McLendon (yandleyick), founder of jUjU software. I make tools for the work I do myself, from cutting a freestyle at the right bar to finding a Tracer play in hours of Overwatch footage.
+I’m Julian “Candlestick” McLendon (yandleyick), founder of jUjU software. I’ve built AI agents that automatically edit music visuals and gaming montages. I’ve also built agents that comb through hundreds of hours of footage to find highlights.
 
 ## Candlestick Creator Toolkit
 
