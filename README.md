@@ -24,7 +24,16 @@ On November 23, 2026, Google Dashboard showed **366 photos** in my primary Googl
 
 Google Dashboard showed **220 files** in my second Drive. Searching that account for files I own returned **80 image files** and **20 video files**. Of the 80 images, **44** had screenshot filenames. These are account-level counts. The earlier estimate of about 750 photos covers my primary Drive and the two SSDs.
 
-I estimate that my Discord index covers roughly twice as many media items as the Drive and SSD archive. That’s my own estimate. The inventory above didn’t measure Discord or how much the collections overlap.
+### Examples of provenance saved so far
+
+As of November 23, 2026, I can also trace my work through the following records.
+
+- **Twitch clips.** My `candlestick` channel had **1,516 distinct public clips** with a combined playback time of **10 hours 45 minutes**. Some clips can show the same moment. [Public clips](https://www.twitch.tv/candlestick/clips?filter=clips&range=all)
+- **Broadcast history.** TwitchTracker recorded **5,688 hours streamed**. When I checked, the channel listed no public past broadcasts, highlights, or uploads. Subtracting the clips’ runtime leaves **roughly 5,680 hours** documented by the tracker without corresponding public footage identified on Twitch. Copies may exist elsewhere. [TwitchTracker statistics](https://twitchtracker.com/candlestick/statistics) · [Channel videos](https://www.twitch.tv/candlestick/videos)
+- **Twitter.** The Wayback Machine indexed **2,150 distinct post IDs** under `@yandleyick`, including **1,865 from 2020**. For **1,995** of those IDs, the index recorded at least one successful page response. Attached photos and videos can have a different capture history from the post itself. [Wayback index](https://web.archive.org/web/*/https://twitter.com/yandleyick/status/*) · [June 2020 capture](https://web.archive.org/web/20200623064654/https://twitter.com/yandleyick/status/1275316574476472320)
+- **9 tre bloods.** In the Discord server I created, server-wide search found **2,301 messages** containing an image, video, or sound. Images appeared in **1,931** messages, video in **365**, and sound in **7**. Two messages matched both image and video. Including other files brought the total to **2,307 messages**. A message can contain multiple attachments or an embedded link, and the same media can appear more than once.
+
+I estimate that my wider Discord index covers roughly twice as many media items as my Drive and SSD archive. The measured count above covers 9 tre bloods alone. Overlap across my collections is still unknown.
 
 ## Candlestick Creator Toolkit
 
