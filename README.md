@@ -24,6 +24,8 @@ On November 23, 2026, Google Dashboard showed **366 photos** in my primary Googl
 
 Google Dashboard showed **220 files** in my second Drive. Searching that account for files I own returned **80 image files** and **20 video files**. Of the 80 images, **44** had screenshot filenames. These are account-level counts. The earlier estimate of about 750 photos covers my primary Drive and the two SSDs.
 
+My Pixel 5 and Pixel 10 may also hold photos, videos, screenshots, and downloads that were never backed up. The inventory so far excludes a direct count of either phone’s local storage. Some files on the phones may already appear in the Google Photos, Drive, or SSD figures above.
+
 ### Examples of provenance saved so far
 
 As of November 23, 2026, I can also trace my work through the following records.
