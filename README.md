@@ -2,6 +2,24 @@
 
 I'm Julian 'candlestick' McLendon (yandleyick), founder of jUjU software. I make tools for the work I do for myself, such as AI agents that automatically edit music visuals and gaming montages or comb through hundreds of hours of footage to find highlights.
 
+## Archive provenance and ownership
+
+My digital archive goes back to my first PC, which I got at age 10, and to the creation of my Google account. I consider that history part of jUjU software. The company treats the archive, its indexes, the intellectual property I own or create going forward, and all data I collect going forward as proprietary company assets. That includes the records I keep of where files came from and how I used them. When I save someone else’s video or screenshot, the original creator’s rights and any license terms still apply.
+
+### Archive size
+
+On November 23, 2026, I inventoried Google Drive, including its computer backup, and the personal and project folders on my two SSDs. These are rounded estimates of distinct files.
+
+| Media | Estimate | What was counted |
+| --- | ---: | --- |
+| Photos | About 750 | About 250 files had camera metadata, a camera-format filename, or a camera file type. A sample of other images in personal and download folders suggested about 500 more photos. Untagged photos elsewhere may be missing. |
+| Videos | About 4,900 | Video files across the scanned locations. About 810 were in download or attachment folders or had a recorded web origin. |
+| Screenshots in downloads and attachments | About 320 | A sample of images in those folders plus files explicitly labeled as screenshots. This includes likely game and app captures. |
+
+I counted local copies using file sizes and content fingerprints and matched Drive files by name and size. Re-encoded or edited copies can count separately. The download figures include material I saved from other people. A download location alone can’t tell me who made it, so the third-party share is unknown.
+
+I estimate that my Discord index covers roughly twice as many media items as the Drive and SSD archive. That’s my own estimate. The inventory above didn’t measure Discord or how much the collections overlap.
+
 ## Candlestick Creator Toolkit
 
 I’ve built many tools and workflows. Seven of them are published in the Candlestick Creator Toolkit. I also curated a catalog of 88 third-party tools and resources, with links to the people and projects behind them. [Toolkit on GitHub](https://github.com/yandleyick/candlestick-creator-toolkit) · [Creator guide](https://yandleyick.com/guides/toolkit)
