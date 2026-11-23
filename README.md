@@ -18,6 +18,12 @@ On November 23, 2026, I inventoried Google Drive, including its computer backup,
 
 I counted local copies using file sizes and content fingerprints and matched Drive files by name and size. Re-encoded or edited copies can count separately. The download figures include material I saved from other people. A download location alone can’t tell me who made it, so the third-party share is unknown.
 
+### Google Photos and my second Drive
+
+On November 23, 2026, Google Dashboard showed **366 photos** in my primary Google Photos account and **152 photos** in my second account. That adds up to **518 photos across the two account counts**. The same photo can appear in both accounts or already be on Drive or an SSD, so the number of unique photos across the whole archive is still unknown.
+
+Google Dashboard showed **220 files** in my second Drive. Searching that account for files I own returned **80 image files** and **20 video files**. Of the 80 images, **44** had screenshot filenames. These are account-level counts. The earlier estimate of about 750 photos covers my primary Drive and the two SSDs.
+
 I estimate that my Discord index covers roughly twice as many media items as the Drive and SSD archive. That’s my own estimate. The inventory above didn’t measure Discord or how much the collections overlap.
 
 ## Candlestick Creator Toolkit
