@@ -36,7 +36,12 @@ As of November 23, 2026, I can also trace my work through the following records.
 - **9 tre bloods.** In the Discord server I created, server-wide search found **2,301 messages** containing an image, video, or sound. Images appeared in **1,931** messages, video in **365**, and sound in **7**. Two messages matched both image and video. Including other files brought the total to **2,307 messages**. A message can contain multiple attachments or an embedded link, and the same media can appear more than once.
 
 I estimate that my wider Discord index covers roughly twice as many media items as my Drive and SSD archive. The measured count above covers 9 tre bloods alone. Overlap across my collections is still unknown.
-
+## Musical & Prose Provenance
+Recorded and written output under `candlestick` / `yandleyick`:
+- **Freestyle Provenance.** **~12,000** estimated lifetime hours freestyling off the dome, with **177 curated cuts** (125 min / ~2.08 hrs across 36 sessions) and **182 extended cuts** (174 min / ~2.91 hrs across 10.4+ hrs of indexed VODs) recorded and preserved in the Freestyle Vault ([antiantipsychotics.com](https://antiantipsychotics.com) / [yandleyick.com](https://yandleyick.com))—representing under **0.03%** of total lifetime hours captured on tape.
+- **Songwriting Archive.** **17** songs & verse drafts (9 beat-linked + 8 untitled + 1 `EXTRA CREDIT` block) in the 2022–2026 master songs file totaling **4,584 total words** (4,283 lyric words across 435 lines)—representing ~1.3 hrs pure typing, ~12–15 hrs active songwriting, and ~20–38+ hrs beat-looping sessions—plus **5** earlier 2017–2019 lyric notebooks.
+- **Written Communication & Prose.** Unique, innovative cadence-driven written communication across a wide network of people, exemplified by the October 10, 2026 Best Man speech *"Slowly then all at once; congratulations to JSM and WSM 10/10/26"* (10/10/2026), featuring the opening line: *"Slowly, then all at once. Such an unfortunate side effect of our misshapen perception of time is how hard we push towards tomorrow, only to become more fond of yesterday once its events compress all the way down to still images that occasionally come in color."*
+  
 ## Candlestick Creator Toolkit
 
 I’ve built many tools and workflows. Seven of them are published in the Candlestick Creator Toolkit. I also curated a catalog of 88 third-party tools and resources, with links to the people and projects behind them. [Toolkit on GitHub](https://github.com/yandleyick/candlestick-creator-toolkit) · [Creator guide](https://yandleyick.com/guides/toolkit)
